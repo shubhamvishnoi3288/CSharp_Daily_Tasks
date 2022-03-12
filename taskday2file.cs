@@ -1,3 +1,4 @@
+                 // Question n 1:
 using System;
 public class Program
     {
@@ -11,7 +12,7 @@ output:
 12
 15
 
-question n 2:
+//                 Question n 2:
 
         public static void Main(string[] args)
         {
@@ -28,7 +29,7 @@ question n 2:
                 }
                 Console.ReadLine();
 
-question9:
+//                Question n 9:
     private static void Question9()
         {
             string[] vs = { "shubham", "akshay", "kisan", "Shivani", "Ayush", "ombeer" };
